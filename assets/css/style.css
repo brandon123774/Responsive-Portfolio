@@ -224,14 +224,14 @@ body {
     /* desktop view */
     @media screen and (max-width: 980px)  {
         .container  {
-            width: 100%;
+            max-width: 980px;
         }
     }      
 
     /* tablet view */
     @media screen and (max-width: 768px)  {
         .container  {
-            width: 75%;
+            max-width: 768px;
         }
     }
 
@@ -241,6 +241,10 @@ body {
             position: static;
         }
         .container  {
-            width: 50%;
+            max-width: 640px;
         }
+        nav {
+            float: center;
+        }
+
     }
