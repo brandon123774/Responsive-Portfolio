@@ -119,6 +119,18 @@ body {
   
   /* main */
   
+   /* desktop view */
+   @media screen and (max-width: 980px)  {
+}
+
+/* tablet view */
+@media screen and (max-width: 768px)  {
+}
+
+/* mobile view */
+@media screen and (max-width: 640px)  {
+}
+  
   #main-container {
     padding-top: 130px;
     min-height: calc(100vh - 70px);
@@ -189,6 +201,18 @@ body {
   }
   
   /* contact page */
+
+   /* desktop view */
+   @media screen and (max-width: 980px)  {
+}
+
+/* tablet view */
+@media screen and (max-width: 768px)  {
+}
+
+/* mobile view */
+@media screen and (max-width: 640px)  {
+}
   
   #contact-form ul {
     margin-bottom: 20px;
