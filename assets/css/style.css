@@ -232,4 +232,7 @@ body {
 
     /* mobile view */
     @media screen and (max-width: 640px)  {
+        #logo  {
+            position: static;
+        }
     }
