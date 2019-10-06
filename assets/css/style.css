@@ -138,17 +138,14 @@ body {
   
   /* desktop view */
   @media screen and (max-width: 980px)  {
-
   }
   
   /* tablet view */
   @media screen and (max-width: 768px)  {
-
   }
 
   /* mobile view */
   @media screen and (max-width: 640px)  {
-      
   }
   
   .work {
